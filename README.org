@@ -1,0 +1,26 @@
+#+title: Useless Objects
+#+author: @Walheimat
+
+* About
+
+This project is a collection of object specifications.
+
+The objects are useless in the sense that there likely isn't a program
+that would benefit from employing them. The effort of creating and
+specifying them on the other end should be perfectly useful[fn:1].
+
+* Objects
+
+Each object should be /confounding/ and introduce /counterinuitive/
+effects.
+
+Each object is contextualized, summarized and specified. In the
+future, example implementations for various languages will be added to
+further elucidate intricacies.
+
+- [[file:specs/darray.org][darray]]
+- [[file:specs/inte.org][inte]]
+
+* Footnotes
+
+[fn:1] To the author.
