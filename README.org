@@ -20,6 +20,7 @@ further elucidate intricacies.
 
 - [[file:specs/darray.org][darray]]
 - [[file:specs/inte.org][inte]]
+- [[file:specs/whacorator.org][whacorator]]
 
 * Footnotes
 
